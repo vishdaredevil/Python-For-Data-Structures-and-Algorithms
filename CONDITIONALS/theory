@@ -1,0 +1,24 @@
+Selection constructs allow a program to execute specific code based on conditions. 
+These constructs determine the flow of execution by evaluating conditions and choosing appropriate statements to execute.  
+
+1. **if Statement**  
+   - Checks a condition and executes a block of code only if the condition is true.  
+   - If the condition is false, the program skips the block.  
+
+2. **if-else Statement**  
+   - Provides two possible execution paths.  
+   - If the condition is true, one block is executed; otherwise, a different block runs.  
+
+3. **if-elif-else Statement**  
+   - Useful when multiple conditions need to be checked in sequence.  
+   - The program evaluates each condition and executes the corresponding block when a condition is true.  
+   - If none of the conditions are met, the else block runs.  
+
+4. **Nested if Statements**  
+   - Allows one condition to be checked inside another.  
+   - Useful for hierarchical decision-making.  
+   - Should be used carefully to maintain readability.  
+
+5. **Ternary Operator**  
+   - A shorthand way to write simple if-else conditions in a single line.  
+   - Improves code efficiency but should only be used when the logic remains easy to understand.
