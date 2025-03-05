@@ -1,0 +1,74 @@
+Operators in Python are special symbols or keywords used to perform operations on variables and values. They help in calculations, comparisons, logic building, and more.
+Types of Operators
+1. Arithmetic Operators
+Perform basic mathematical operations:
+- `+` (Addition)
+- `-` (Subtraction)
+- `*` (Multiplication)
+- `/` (Division)
+- `//` (Floor Division)
+- `%` (Modulus)
+- `**` (Exponentiation)
+
+2. Comparison Operators
+Compare values and return Boolean results:
+- `==` (Equal to)
+- `!=` (Not equal to)
+- `>` (Greater than)
+- `<` (Less than)
+- `>=` (Greater than or equal to)
+- `<=` (Less than or equal to)
+
+3. Logical Operators
+Used to combine conditional statements:
+- `and` (Both conditions must be True)
+- `or` (At least one condition must be True)
+- `not` (Reverses the Boolean value)
+
+4. Assignment Operators
+Used to assign or update variable values:
+- `=` (Assign)
+- `+=, -=, *=, /=, //=, %=` (Modify and assign)
+
+5. Bitwise Operators
+Operate at the binary level:
+- `&` (AND)
+- `|` (OR)
+- `^` (XOR)
+- `~` (NOT)
+- `<<` (Left Shift)
+- `>>` (Right Shift)
+
+6. Membership Operators
+Check membership in sequences:
+- `in` (Exists in sequence)
+- `not in` (Does not exist in sequence)
+
+7. Identity Operators
+Compare memory locations:
+- `is` (Same memory location)
+- `is not` (Different memory location)
+
+Operator Precedence
+Determines the order in which operations are evaluated:
+1. Parentheses `()`
+2. Exponentiation `**`
+3. Unary operators `+`, `-`, `~`
+4. Multiplication, Division, Modulus, Floor Division `*, /, %, //`
+5. Addition, Subtraction `+, -`
+6. Bitwise Shift `<<, >>`
+7. Bitwise AND `&`
+8. Bitwise XOR `^`
+9. Bitwise OR `|`
+10. Comparison Operators `==, !=, <, <=, >, >=`
+11. Logical NOT `not`
+12. Logical AND `and`
+13. Logical OR `or`
+14. Assignment Operators `=, +=, -=, etc.`
+
+IMPORTAND POINTS FOFR OPERATOR:
+- Operators help manipulate data, simplify logic, and control program flow.
+- Parentheses override precedence.
+- Associativity determines order when operators have the same precedence.
+- Use parentheses to improve readability and avoid ambiguity.
+
