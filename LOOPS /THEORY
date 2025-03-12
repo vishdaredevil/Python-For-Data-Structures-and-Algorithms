@@ -1,0 +1,31 @@
+Looping Constructs  
+- Loops help in repeating a block of code efficiently without redundancy.  
+- Every loop consists of four key components: initialization, test expression, update expression, and loop body.  
+
+Types of Loops in Python  
+
+For Loop  
+- Iterates over sequences like lists, strings, or ranges.  
+- Uses the `range()` function to generate sequences of numbers.  
+- Supports nested for loops for working with multi-dimensional structures.  
+
+While Loop  
+- Runs as long as a specified condition remains true.  
+- Useful when the number of iterations is unknown beforehand.  
+- May cause infinite loops if the condition never turns false.  
+- Can include an `else` block that executes when the loop completes normally.  
+- Supports nested while loops for handling complex scenarios.  
+
+Loop Control Statements  
+
+Break Statement  
+- Terminates the loop immediately when a condition is met.  
+- Used to stop further iterations in both `for` and `while` loops.  
+
+Continue Statement  
+- Skips the current iteration and moves to the next one without exiting the loop.  
+- Helps in filtering unwanted iterations while continuing loop execution.  
+
+Break and Continue in Nested Loops  
+- Break and continue affect only the loop where they are placed.  
+- Additional logic or flags may be required to control multiple loops simultaneously.
